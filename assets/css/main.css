@@ -2215,6 +2215,14 @@ input, select, textarea {
 					background-repeat: no-repeat;
 				}
 
+				#main > .panel .projects-section .row #portfolio {
+					background-color: rgb(200, 200, 200);
+					background-image: url('../../images/portfolio.png');
+					background-size: cover;
+					background-position: center;
+					background-repeat: no-repeat;
+				}
+
 				#main > .panel .projects-section .row #voice {
 					background-color: rgb(168, 188, 233);
 					background-image: url('../../images/voice-transcriber.png');
@@ -2225,8 +2233,16 @@ input, select, textarea {
 
 				#main > .panel .projects-section .row #smart-snake {
 					background-color: rgb(200, 200, 200);
-					background-image: url('../../images/smart-snake.png');
+					background-image: url('../../images/snake.png');
 					background-size: cover;
+					background-position: center;
+					background-repeat: no-repeat;
+				}
+
+				#main > .panel .projects-section .row #airpen {
+					background-color: rgb(200, 200, 200);
+					background-image: url('../../images/air_pen.png');
+					background-size: contain;
 					background-position: center;
 					background-repeat: no-repeat;
 				}
